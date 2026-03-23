@@ -1,0 +1,5 @@
+variable,hipotesis,signo_esperado,spearman_rho,p_value,decision_alpha_0.05
+log_tiempo,H1: complejidad aumenta con más tiempo,+,0.12359619567908743,0.0014055710545804677,Soportada
+CONTEO_NETO,H2a: complejidad aumenta con más requisitos,+,0.8062356879213215,2.7301600522914683e-153,Soportada
+N_FORMATOS_FINAL,H2b: complejidad aumenta con más formatos,+,0.7629342311838092,1.0100868017598896e-127,Soportada
+digitalizacion_num,H3: complejidad disminuye con mayor digitalización,-,0.38812568487080906,2.4666670657000124e-25,No soportada (signo opuesto)
