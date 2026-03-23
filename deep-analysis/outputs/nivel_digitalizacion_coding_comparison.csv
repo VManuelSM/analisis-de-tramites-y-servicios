@@ -1,0 +1,4 @@
+coding,semantica_oficial,tratamiento_missing,burden_adj_r2,burden_aic,burden_coef_main,burden_p_main,cost_pseudo_r2,cost_aic,cost_coef_main,cost_p_main,cost_model_note
+A_ordinal_directa,Valida,Sin_nivel (is_sin_nivel),-0.00012523464271518847,2096.257900650278,0.010348975791140212,0.4992276477669404,0.024504924959240948,799.3652966931232,0.11093839549112504,0.004928743979726707,Estimación completa
+B_ordinal_invertida,No valida (invierte significado),Sin_nivel (is_sin_nivel),-0.00012523464271518847,2096.257900650278,-0.010348975791140334,0.4992276477669352,0.02450492495924106,799.3652966931231,-0.11093839549112504,0.0049287439797285415,Estimación completa
+C_categorica_onehot,Valida,Sin_nivel (categoría propia),0.028322241431380624,2085.9656704577646,,1.1205281332289556e-15,,,,,No estimable (LinAlgError)
